@@ -1,10 +1,8 @@
-# Machine Learning Meetup 
-
-## Deep learning track
+# Deep learning track
 Four week deep learning course + coding assignment --> Kaggle competition
 
-#### Week 1 - Deep learning basics & Image classification
-Course material: 
+## Week 1 - Deep learning basics & Image classification
+#### Course material: 
 - Theory:
   - [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY)
   - [MIT Computer Vision with Convolution Neural Network](https://www.youtube.com/watch?v=NVH8EYPHi30)
@@ -31,9 +29,9 @@ Workshop:
 - Presentation of codes and concepts
 - Coding challenge - to be decided
 
-#### Week 2-4 - to be decided
+## Week 2-4 - to be decided
 
-#### Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
+## Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 Select 8 most active and contributive members near the end of the course
 
 :exclamation:= Compulsory materials and assignments
