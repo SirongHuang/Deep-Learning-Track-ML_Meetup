@@ -41,7 +41,7 @@ Select 8 most active and contributive members near the end of the course
 A: Fastai is a high level library that implements cutting edge deep learning algorithms. It allows anyone to start implementing deep learning quickly with world-class performance and it's being used frequently in top Kaggle submissions. Fastai has excellent automation for data loading and data preprocessing. Even you wish to use other deep learning libraries to implement the models, these helper functions will still help with the boring tasks.
 
 All in all, it's great place for beginners to start, and a necessary tool for experienced data scientist. 
-<br><br><br>
+<br><br>
 **Q: I want to learn how Deep Learning models are implemented from scratch but Fastai makes models appear as block boxes. Why don't we learn Tensorflow or Pytorch instead?**<br><br>
 A: It could take months to study deep learning theories and implement everything with Tensorflow or Pytorch from scratch. Also, not everyone is interested in theory and implementation details. Fastai offers a **minimum requirement** to understand and implement deep learning models, which is a good point to jump start. 
 <br><br>
