@@ -13,12 +13,12 @@ Course material:
   - :exclamation:[Fastai Data Cleaning and Production & Gradient Descent](https://course.fast.ai/videos/?lesson=1)
 
 Coding assignment: Implement an image classifier with any dataset
-- :exclamation: Minimum requirement: implement using Fastai library
-- Beyond minimum requirement: 
-  - Implement with Keras, Pytorch, Tensorflow etc. 
-  - Explanation / visualization of concepts 
-  - :exclamation: Join Kaggle Competition
-    - Present your code in next workshop
+- :exclamation: Join Kaggle Competition
+  - :exclamation: Minimum requirement: implement using Fastai library
+  - Beyond minimum requirement: 
+    - Implement with Keras, Pytorch, Tensorflow etc. 
+    - Explanation / visualization of concepts  
+  - Present your code in next workshop
 Workshop:
 - Presentation of codes and concepts
 - Coding challenge - to be decided
