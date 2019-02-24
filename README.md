@@ -24,7 +24,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 =>&nbsp;  Beyond minimum requirement:
       - Implement with Keras, Pytorch, Tensorflow etc.
       - Explanation / visualization of concepts  
-3. Post the link of your notebook on discord / email to sirong.huang1@gmail.com 
+3. Send the link of your notebook with this [Google form](https://goo.gl/forms/6rj21GFba4BeR8m83) (All notebook links will be posted here)
 4. Present your code in next workshop 
 
 #### Workshop:
