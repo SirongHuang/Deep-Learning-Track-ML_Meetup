@@ -14,11 +14,19 @@ Course material:
 
 Coding assignment: Implement an image classifier with any dataset
 - :exclamation: Join Kaggle Competition
-  - :exclamation: Minimum requirement: implement using Fastai library
-  - Beyond minimum requirement: 
-    - Implement with Keras, Pytorch, Tensorflow etc. 
-    - Explanation / visualization of concepts  
-  - Present your code in next workshop
+    * You can find interesting public datasets [here](https://www.kaggle.com/datasets)
+      * Lecture uses [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset)
+      * If you wish to follow the lecture and code along, just click on the "New Kernel" button in the above link
+      * Other interesting image datasets:
+          * [Stanford Dogs Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset/home) 
+          * [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
+          * [Fruits dataset](https://www.kaggle.com/moltean/fruits)
+          * many more ... 
+    - :exclamation: Minimum requirement: implement using Fastai library
+    - Beyond minimum requirement:
+        - Implement with Keras, Pytorch, Tensorflow etc.
+        - Explanation / visualization of concepts  
+    - Present your code in next workshop
 Workshop:
 - Presentation of codes and concepts
 - Coding challenge - to be decided
