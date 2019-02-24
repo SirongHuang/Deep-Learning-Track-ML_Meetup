@@ -1,5 +1,6 @@
 # Deep learning track
-Four week deep learning course + coding assignment --> Kaggle competition
+Four week deep learning course + coding assignment --> Kaggle competition <br>
+:exclamation:= Compulsory materials and assignments
 
 ## Week 1 - Deep learning basics & Image classification
 #### Course material: 
@@ -10,7 +11,7 @@ Four week deep learning course + coding assignment --> Kaggle competition
   - :exclamation:[Fastai Image Classification](https://course.fast.ai/videos/?lesson=1) 
   - :exclamation:[Fastai Data Cleaning and Production & Gradient Descent](https://course.fast.ai/videos/?lesson=1)
 
-Coding assignment: Implement an image classifier with any dataset
+#### Coding assignment: Implement an image classifier with any dataset
 
 1. :exclamation: Join Kaggle Competition
     - Lecture dataset: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset) (click on the "New Kernel" button in the link)
@@ -25,7 +26,7 @@ Coding assignment: Implement an image classifier with any dataset
       - Explanation / visualization of concepts  
 3. Present your code in next workshop
 
-Workshop:
+#### Workshop:
 - Presentation of codes and concepts
 - Coding challenge - to be decided
 
@@ -33,8 +34,6 @@ Workshop:
 
 ## Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 Select 8 most active and contributive members near the end of the course
-
-:exclamation:= Compulsory materials and assignments
 
 ## Q & A:
 
