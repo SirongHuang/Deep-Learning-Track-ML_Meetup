@@ -13,14 +13,15 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 
 #### Coding assignment: Implement an image classifier with any dataset
 
-1. :exclamation: Join Kaggle Competition
+1. :exclamation: Build a Kaggle kernel
+    - [Instructions](https://course.fast.ai/start_kaggle.html)
     - Lecture dataset: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset) (click on the "New Kernel" button in the link)
-    - Other interesting image datasets:
-      - [Stanford Dogs Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset/home) 
-      - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
-      - [Fruits dataset](https://www.kaggle.com/moltean/fruits)
-      - many more ... 
-2. :exclamation: Minimum requirement: implement using Fastai library<br>
+      - Other interesting image datasets:
+        - [Stanford Dogs Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset/home) 
+        - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
+        - [Fruits dataset](https://www.kaggle.com/moltean/fruits)
+        - many more ... 
+2. :exclamation: Minimum requirement: Implement using Fastai library<br>
 =>&nbsp;  Beyond minimum requirement:
       - Implement with Keras, Pytorch, Tensorflow etc.
       - Explanation / visualization of concepts  
