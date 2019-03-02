@@ -27,6 +27,10 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 3. Send the link of your notebook with this [Google form](https://goo.gl/forms/8wimYUJgtAwDtTm42) (all notebook links will be posted here)
 4. Present your code in next workshop 
 
+##### Notebooks
+- https://www.dropbox.com/s/rrxtlnhppbihjrj/Pet%20dataset%20keras.ipynb?dl=0
+
+
 #### Workshop:
 - Presentation of codes and concepts
 - Coding challenge - to be decided
