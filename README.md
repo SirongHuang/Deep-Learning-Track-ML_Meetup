@@ -13,8 +13,8 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 
 #### Coding assignment: Implement an image classifier with any dataset
 
-1. :exclamation: Build a Kaggle kernel
-    - Lecture dataset: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset) (click on the "New Kernel" button in the link)
+1. :exclamation: Build a Notebook from [a cloud server](https://course.fast.ai/start_crestle.html)
+    - Lecture dataset: [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset)
       - Other interesting image datasets:
         - [Stanford Dogs Dataset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset/home) 
         - [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
