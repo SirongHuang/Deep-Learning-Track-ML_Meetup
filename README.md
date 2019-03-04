@@ -40,6 +40,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 - Theory:
   - (Optional) Papers that explain finding learning rate [Paper1](https://arxiv.org/abs/1506.01186)  [Paper 2](https://arxiv.org/abs/1803.09820)
   - (Optional) [Bag of tricks for training CNNs](https://arxiv.org/abs/1812.01187)
+  - (Optional and very helpful) [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 - Practice:
   - :exclamation:Fastai Image Classification [Lecture 2](https://course.fast.ai/videos/?lesson=2) [Lecture 3](https://course.fast.ai/videos/?lesson=3)
   - :exclamation:Fastai NLP [Lecture 4](https://course.fast.ai/videos/?lesson=4) Interesting ideas i.e. `learn.freeze_to()`
