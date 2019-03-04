@@ -35,7 +35,30 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 - Presentation of codes and concepts
 - Coding challenge - to be decided
 
-## Week 2-4 - to be decided
+## Week 2 - Deep learning Image classification
+#### Course material:
+- Theory:
+  - (Optional) Papers that explain finding learning rate [Paper1](https://arxiv.org/abs/1506.01186)  [Paper 2](https://arxiv.org/abs/1803.09820)
+  - (Optional) [Bag of tricks for training CNNs](https://arxiv.org/abs/1812.01187)
+- Practice:
+  - :exclamation:Fastai Image Classification [Lecture 2](https://course.fast.ai/videos/?lesson=2) [Lecture 3](https://course.fast.ai/videos/?lesson=3)
+  - :exclamation:Fastai NLP [Lecture 4](https://course.fast.ai/videos/?lesson=4) Interesting ideas i.e. `learn.freeze_to()`
+
+#### Coding assignment: Implement an image classifier (continued from week 1)
+1. Another interesting dataset for image classification task
+    - [Mushrooms dataset](https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images)
+2. Send the link of your notebook with this [Google form](https://goo.gl/forms/8wimYUJgtAwDtTm42) (all notebook links will be posted here)
+3. Present your code in next workshop 
+
+#### Workshop:
+- Presentation of codes and concepts
+- Coding challenge
+    - (Option 1) Classification of mushroom images 
+
+##### Notebooks 
+- (Week 2 notebooks will be updated here)
+
+## Week 3-4 - to be decided
 
 ## Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 Select 8 most active and contributive members near the end of the course
