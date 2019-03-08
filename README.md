@@ -29,7 +29,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 
 ##### Notebooks
 - https://www.dropbox.com/s/rrxtlnhppbihjrj/Pet%20dataset%20keras.ipynb?dl=0
-
+- https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb
 
 #### Workshop:
 - Presentation of codes and concepts
