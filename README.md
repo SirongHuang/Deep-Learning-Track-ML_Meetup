@@ -29,8 +29,10 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 4. Present your code in next workshop 
 
 ##### Notebooks
-- https://www.dropbox.com/s/rrxtlnhppbihjrj/Pet%20dataset%20keras.ipynb?dl=0
-- https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb
+- aditya: https://www.kaggle.com/adityajitta/fastai-lecture-1-explore
+- Rong: https://github.com/SirongHuang/Computer-vision-with-deep-learning/blob/master/Image-classification/image_classification.ipynb
+- ruben: https://www.dropbox.com/s/rrxtlnhppbihjrj/Pet%20dataset%20keras.ipynb?dl=0
+- Qingli: https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb
 
 #### Workshop:
 - Presentation of codes and concepts
