@@ -7,6 +7,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 - Theory:
   - [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY)
   - [MIT Computer Vision with Convolution Neural Network](https://www.youtube.com/watch?v=NVH8EYPHi30)
+  - [Stanford Convolutional Neural Networks](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - Practice:
   - :exclamation:[Fastai Image Classification](https://course.fast.ai/videos/?lesson=1) 
   - :exclamation:[Fastai Data Cleaning and Production & Gradient Descent](https://course.fast.ai/videos/?lesson=1)
