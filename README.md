@@ -34,7 +34,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 | Aditya     | [Lecture 1](https://www.kaggle.com/adityajitta/fastai-lecture-1-explore) | fastai |
 | Rong     | [Image classification: clothing](https://github.com/SirongHuang/Computer-vision-with-deep-learning/blob/master/Image-classification/image_classification.ipynb)      |   fastai, opencv |
 | Ruben | [Pets dataset Keras implementation](https://www.dropbox.com/s/rrxtlnhppbihjrj/Pet%20dataset%20keras.ipynb?dl=0)      |   Keras |
-| Qingli | [Lecture 1 ](https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb)      |   fastai |
+| Qingli | [Lecture 1 ](https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb)      |   fastai | 
 
 #### Workshop:
 - Presentation of codes and concepts
@@ -65,6 +65,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 | Name        | Notebook           | Code  | Accuracy |
 | ------------- |:-------------:| -----:|-----:|
 | Aditya     | [Image classification: Mushrooms](https://github.com/gradjitta/ds_project_template/blob/master/Mushroom%20Classification%20FastAI%20ResNet34%2087.ipynb) | fastai |?? |
+| Salih     | [Image classification: Mushrooms](https://www.kaggle.com/salihb/mushrooms-classification-using-keras) | fastai |?? |
 - (Week 2 notebooks will be updated here)
 
 ## Week 3-4 - to be decided
