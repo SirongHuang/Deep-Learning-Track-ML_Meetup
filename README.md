@@ -81,6 +81,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
     - More experiments: unfreeze more last layers, lower weight decay `wd` (allows for higher learning rate) and [bayesian NN](https://github.com/paraschopra/bayesian-neural-network-mnist/blob/master/bnn.ipynb)
 2. Send the link of your notebook with this [Google form](https://goo.gl/forms/8wimYUJgtAwDtTm42) (all notebook links will be posted
  here)
+#### Notebooks
 | Name        | Notebook           | 
 | ------------- |:-------------:| 
 | Aditya     | [Understanding grads and hooks](https://www.kaggle.com/adityajitta/understanding-grads-and-hooks)|
