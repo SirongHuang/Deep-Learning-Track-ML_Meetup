@@ -90,7 +90,8 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 | Rong     | [Visualizating CNN](https://github.com/SirongHuang/Deep-Learning-Track_Machine-Learning-Meetup/blob/master/Visualizing_cnn_compressed.pdf)|
 3. Present your code in next workshop
 
-## Week 4 - to be decided
+## Week 4 - Kaggle competition kick-off and team formation
+:exclamation: [Join teams in this Google form](https://goo.gl/forms/nUYJ4NF4Xqeh4onA3)
 
 ## Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 Select 8 most active and contributive members near the end of the course
