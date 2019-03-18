@@ -94,7 +94,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 :exclamation: [Join teams in this Google form](https://goo.gl/forms/nUYJ4NF4Xqeh4onA3)
 
 ## Final project - [Earthquake Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
-Select 8 most active and contributive members near the end of the course
+Select 8 most active and contributive members near the end of the course. May divide into teams if there are more than 8 participants. 
 
 ## Q & A:
 
