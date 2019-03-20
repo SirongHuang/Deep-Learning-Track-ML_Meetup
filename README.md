@@ -87,7 +87,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 | Name        | Notebook           | 
 | ------------- |:-------------:| 
 | Aditya     | [Understanding grads and hooks](https://www.kaggle.com/adityajitta/understanding-grads-and-hooks)|
-| Rong     | [Understanding Pytorch Hooks](https://www.kaggle.com/sironghuang/understanding-pytorch-hooks?scriptVersionId=11832558)|
+| Rong     | [Understanding Pytorch Hooks](https://www.kaggle.com/sironghuang/understanding-pytorch-hooks?scriptVersionId=11851979)|
 | Rong     |[Visualizating CNN slides](https://github.com/SirongHuang/Deep-Learning-Track_Machine-Learning-Meetup/blob/master/Visualizing_cnn_compressed.pdf)|
 3. Present your code in next workshop
 
