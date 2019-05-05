@@ -32,7 +32,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 | Name        | Notebook           | Code  |
 | ------------- |:-------------:| -----:|
 | Aditya     | [Lecture 1](https://www.kaggle.com/adityajitta/fastai-lecture-1-explore) | fastai |
-| Rong     | [Image classification: clothing](https://github.com/SirongHuang/Computer-vision-with-deep-learning/blob/master/Image-classification/image_classification.ipynb)      |   fastai, opencv |
+| Rong     | [Image classification: clothing](https://github.com/SirongHuang/Deep-learning-workflow/blob/master/image_classification.ipynb)      |   fastai, opencv |
 | Ruben | [Pets dataset Keras implementation](https://www.dropbox.com/s/ws1uahjwp13fj3t/Pet%20dataset%20keras%20v2.ipynb?dl=0)      |   Keras |
 | Qingli | [Lecture 1 ](https://github.com/QingliGuo/Machine_Learning/blob/master/Image_Classification.ipynb)      |   fastai | 
 
