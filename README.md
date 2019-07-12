@@ -1,4 +1,4 @@
-# Deep learning track (look at NLP.md for NLP track)
+# Deep learning track
 Four week deep learning course + coding assignment --> Kaggle competition <br>
 :exclamation:= Compulsory materials and assignments
 
